@@ -2,3 +2,6 @@
 # Pokemon
 
 ![alt text](https://github.com/jaapbrasser/Pokemon/blob/master/Pictures/Pikachu.png "Pikachu in PowerShell console")
+
+
+pika sucks
